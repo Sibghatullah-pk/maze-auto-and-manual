@@ -1,0 +1,1 @@
+g++ main.cpp Maze.cpp Player.cpp -o maze
